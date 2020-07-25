@@ -6,3 +6,7 @@
   +  [Twitter](https://twitter.com/JainSumyak)
   +  [Linkedin](https://www.linkedin.com/in/sumyak-jain/)
   +  [Instagram](https://www.instagram.com/gaurav_jain0511/)
+  
+ <a href="https://github.com/sumyak/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=sumyak">
+</a>
