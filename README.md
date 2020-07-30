@@ -20,8 +20,10 @@
 
 <br>
 
+<br>
 
-### Thank you for visiting my profile :blush:
+
+### Thank you! for visiting my profile :blush:
  <a href="https://github.com/sumyak/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=sumyak">
 </a>
