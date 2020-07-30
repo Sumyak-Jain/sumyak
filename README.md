@@ -1,4 +1,5 @@
 # Hi there 👋
+### I am Sumyak Jain Pursuing B.tech  in Computer Science Engineering with specialization in DevOps at UPES, Dehradun
 
 ![](https://github-readme-stats.vercel.app/api?username=sumyak&show_icons=true&line_height=30)
 
