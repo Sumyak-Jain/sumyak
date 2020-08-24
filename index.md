@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# Hi there 👋
+### I am Sumyak Jain Pursuing B.tech  in Computer Science Engineering with specialization in DevOps at UPES, Dehradun
 
-You can use the [editor on GitHub](https://github.com/sumyak/sumyak/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![](https://github-readme-stats.vercel.app/api?username=sumyak&show_icons=true&line_height=30)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Follow me on
+<a href="https://twitter.com/JainSumyak">
+  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
 
-### Markdown
+<a href="https://www.linkedin.com/in/sumyak-jain/">
+  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<a href="https://www.instagram.com/gaurav_jain0511/">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
-```markdown
-Syntax highlighted code block
+<br>
 
-# Header 1
-## Header 2
-### Header 3
+<br>
 
-- Bulleted
-- List
+<br>
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sumyak/sumyak/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Thank you! for visiting my profile :blush:
+ <a href="https://github.com/sumyak/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=sumyak">
+</a>
