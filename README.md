@@ -5,8 +5,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=sumyak&show_icons=true&line_height=30)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumyak&layout=compact)
-
 # Follow me on
 <a href="https://twitter.com/JainSumyak">
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
